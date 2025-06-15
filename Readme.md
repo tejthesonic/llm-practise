@@ -1,1 +1,1 @@
-This is a repositary used for practising and experimenting llm
+This is a repositary used for practising and experimenting llmdeactivate
